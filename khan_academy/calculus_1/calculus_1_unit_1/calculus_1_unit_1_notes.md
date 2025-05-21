@@ -24,3 +24,11 @@ Limit Notation:
     - Left-hand Limit: defined with a negative superscript on the limit notation. 
     - Right-hand Limit: defined with a positive superscript on the limit notation.
     - If the limits defined from each direction are not the same, the limit **Does Not Exist**.
+
+## Lesson 3: Creating Tables for Approximating Limits
+
+- Use an input/output table to estimate the limit of a function as x approaches a specific value by choosing input values that are very close to the target x-value from both the left and right. Then observe the trend in the output values f(x) to determine what value the function is approaching.
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
