@@ -32,3 +32,39 @@ Limit Notation:
 ![alt text](image-3.png)
 
 ![alt text](image-4.png)
+
+## Lesson 4: Formal Definition of Limits (Epsilon-delta)
+
+
+
+- Sum Property: The limit of two different functions can be added if both limits exist and approach finite values as x approaches the same point.
+
+![alt text](image-5.png)
+
+- Difference Property: The limit of two different functions can be subtracted if both limits exist and approach finite values as x approaches the same point.
+    
+![alt text](image-6.png)
+
+- Product Property: The limit of two different functions can be multiplied if both limits exist and approach finite values as x approaches the same point.
+    - Applies to constant applied to the the function.
+
+![alt text](image-7.png)
+
+- Quotient Property: The limit of two different functions can be divided if both limits exist and approach finite values as x approaches the same point.
+
+![alt text](image-8.png)
+
+
+- Epsilon-delta:
+
+    - Epsilon (ε): Represents how close f(x) is to the limit L.
+
+    - Delta: Represents how close x must be to a (but not equal to a) to make f(x) fall within ε of L.
+![alt text](image-9.png)
+![alt text](image-10.png)
+
+## Lesson 5: Properties of Limits
+
+
+## Lesson 6: 
+- A function is continuous at x = a *if and only if* the limit of f(x), as x approaches a, is equal to f(a).
