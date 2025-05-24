@@ -67,4 +67,19 @@ Limit Notation:
 
 
 ## Lesson 6: 
-- A function is continuous at x = a *if and only if* the limit of f(x), as x approaches a, is equal to f(a).
+- Limits By Direct Substitution
+    - A function is continuous at x = a *if and only if* the limit of f(x), as x approaches a, is equal to f(a).
+
+- Limits of Trigonometric Functions
+
+![alt text](image-11.png)
+
+![alt text](image-12.png)
+
+![alt text](image-13.png)
+
+![alt text](image-14.png)
+
+- Limits of Piecewise Functions
+
+- Limit at a Point of Discontinuity
