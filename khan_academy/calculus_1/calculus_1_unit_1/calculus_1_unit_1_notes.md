@@ -83,3 +83,9 @@ Limit Notation:
 - Limits of Piecewise Functions
 
 - Limit at a Point of Discontinuity
+
+
+## Lesson 6: Limits by Factoring
+
+## Lesson 7: Limits by Rationalizing
+
